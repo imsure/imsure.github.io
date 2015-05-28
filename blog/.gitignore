@@ -6,3 +6,8 @@ node_modules/
 public/
 .deploy*/
 themes
+
+*.PNG
+*.png
+*.JPG
+*.jpeg
