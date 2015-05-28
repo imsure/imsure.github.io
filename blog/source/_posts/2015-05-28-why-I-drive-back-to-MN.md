@@ -3,7 +3,9 @@ date: 2015-05-28 10:04:39
 categories:
 - 胡思乱想
 tags:
-- 明尼苏达，学生团契，弟兄姐妹
+- 明尼苏达
+- 学生团契
+- 弟兄姐妹
 thumbnailImage: AZ2MN.PNG
 photos:
 - IMG_1.JPG
